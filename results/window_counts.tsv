@@ -1,0 +1,11 @@
+sample	window_bp	boundaries_in_locus	tads_overlapping_locus	tads_fully_inside_locus	tads_chr17	finite_score_bins_locus
+MCG037	100000	2	3	1	163	40
+MCG037	200000	2	3	1	103	40
+MCG037	300000	2	3	1	76	40
+MCG037	500000	1	2	0	57	40
+MCG037	1000000	1	2	0	22	40
+MCG011	100000	2	3	1	171	40
+MCG011	200000	3	4	2	109	40
+MCG011	300000	2	3	1	70	40
+MCG011	500000	1	2	0	52	40
+MCG011	1000000	1	2	0	37	40

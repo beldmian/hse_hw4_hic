@@ -1,0 +1,24 @@
+{
+  "4DNFIJ2JKO7D": {
+    "open_data_url": "https://4dn-open-data-public.s3.amazonaws.com/fourfront-webprod/wfoutput/a5d4d769-164a-492a-b4d7-887144ef0cb5/4DNFIJ2JKO7D.mcool",
+    "file_size": 536629605,
+    "md5sum": "06e14033d621b38c21d3e245c5cb86a1",
+    "genome_assembly": "GRCh38",
+    "higlass_uid": "30a134e7-37a2-440a-a5e3-ce8463a44580",
+    "sample": "MCG037",
+    "experiment_set": "4DNES8BK27SC",
+    "biosample": "bone marrow mononuclear cells, B-ALL",
+    "assay": "in situ Hi-C, MboI"
+  },
+  "4DNFI8I9LN74": {
+    "open_data_url": "https://4dn-open-data-public.s3.amazonaws.com/fourfront-webprod/wfoutput/c75211b1-f8e1-4dd6-986e-35006a03ccf2/4DNFI8I9LN74.mcool",
+    "file_size": 547557606,
+    "md5sum": "e4be63a98d1a2fa926faf82e90b09e99",
+    "genome_assembly": "GRCh38",
+    "higlass_uid": "78457088-db00-4f56-a39c-d98ef4352a79",
+    "sample": "MCG011",
+    "experiment_set": "4DNES2DB4F2D",
+    "biosample": "bone marrow mononuclear cells, B-ALL",
+    "assay": "in situ Hi-C, MboI"
+  }
+}

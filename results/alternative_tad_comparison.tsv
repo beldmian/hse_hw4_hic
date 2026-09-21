@@ -1,0 +1,5 @@
+sample	ontad_subset	cooltools_boundaries	ontad_boundaries	ontad_domains_overlapping	matched_one_to_one	tolerance_bp	fraction_cooltools_matched	fraction_ontad_matched	boundary_jaccard
+MCG037	level1	2	1	1	1	25000	0.5	1.0	0.5
+MCG037	all_levels	2	3	5	2	25000	1.0	0.6666666666666666	0.6666666666666666
+MCG011	level1	3	1	2	1	25000	0.3333333333333333	1.0	0.3333333333333333
+MCG011	all_levels	3	3	7	3	25000	1.0	1.0	1.0
